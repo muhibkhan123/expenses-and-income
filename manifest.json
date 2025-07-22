@@ -1,0 +1,21 @@
+{
+  "name": "Offline Income & Expense Manager",
+  "short_name": "FinanceManager",
+  "description": "A simple, offline-first application to manage your personal income and expenses.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.svg", // Changed to SVG
+      "type": "image/svg+xml",        // Changed type
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512x512.svg", // Changed to SVG
+      "type": "image/svg+xml",        // Changed type
+      "sizes": "512x512"
+    }
+  ]
+}
